@@ -1,4 +1,4 @@
-# MyApp
+#arithmetic
 基于java的四则运算题目生成器  
 ***
 ###操作说明###
